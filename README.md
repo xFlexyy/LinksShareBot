@@ -5,7 +5,8 @@
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/42aced60d325f8b1c38b8-4142b15de724c8de88.jpg">
+  <img src="https://media.themoviedb.org/t/p/w1000_and_h563_face/6fRwRD7GdCfg6owzmCT3VgQtowl.jpg" 
+       style="max-width:90%; height:auto; border-radius:10px;">
 </p>
 
 <p align="center">
