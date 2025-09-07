@@ -16,12 +16,12 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ProYato/LinkShareBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/dbyteFlexyy/LinksShareBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 ᴅᴇᴘʟᴏʏ ᴏɴ ᴋᴏʏᴇʙ 」─
 </h3>
-<p align="center"><a href="https://app.koyeb.com/deploy?type=git&https://github.com/ProYato/LinkShareBot=&branch=main&name=AutoReanemBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Koyeb-black?style=for-the-badge&logo=Koyeb" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://app.koyeb.com/deploy?type=git&https://github.com/dbyteFlexyy/LinksShareBot=&branch=main&name=AutoReanemBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Koyeb-black?style=for-the-badge&logo=Koyeb" width="220" height="38.45"/></a></p>
 </h3>
 
 <details><summary><b> - ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴠᴀʀɪᴀʙʟᴇs :</summary>
@@ -88,7 +88,7 @@
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-- <b>[𝗙ʟᴇxʏʏ](https://github.com/Sahil0976/)  ➻  [𝗼ᴡɴᴇʀ](https://github.com/dbyteFlexyy) </b>
+- <b>[𝗙ʟᴇxʏʏ](https://github.com/dbyteFlexyy/)  ➻  [𝗼ᴡɴᴇʀ](https://github.com/dbyteFlexyy) </b>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
