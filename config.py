@@ -14,15 +14,15 @@ from logging.handlers import RotatingFileHandler
 
 # Recommended
 TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
-APP_ID = int(os.environ.get("APP_ID", ""))
-API_HASH = os.environ.get("API_HASH", "")
+APP_ID = int(os.environ.get("APP_ID", "23513526"))
+API_HASH = os.environ.get("API_HASH", "8e0771f3d5d048cbf3b601b8ed152c0d")
 
 # Main
 OWNER_ID = int(os.environ.get("OWNER_ID", "7125448912"))
 PORT = os.environ.get("PORT", "8080")
 
 # Database
-DB_URI = os.environ.get("DB_URI", "")
+DB_URI = os.environ.get("DB_URI", "mongodb+srv://ofcwasefu_db_user:iWj3jJfcbPNoxVRb@cluster0.jty80ao.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DB_NAME = os.environ.get("DB_NAME", "link")
 
 #Auto approve 
